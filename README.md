@@ -37,7 +37,11 @@
 
 ## 📊 GitHub Stats
 
-[![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoumyaSagarNayak&show_icons=true&include_all_commits=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SoumyaSagarNayak&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Sagar's GitHub Stats" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaSagarNayak&layout=compact&langs_count=10&theme=dark" alt="Top Langs" />
