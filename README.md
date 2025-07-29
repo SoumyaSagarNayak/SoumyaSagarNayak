@@ -56,7 +56,12 @@
 
 ## 📈 LeetCode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/SoumyaSagarNayak?theme=dark&font=Karma&ext=heatmap)]([https://leetcode.com/icesagar/](https://leetcode.com/u/icesagar/))
+<p align="center">
+  <a href="https://leetcode.com/u/icesagar/">
+    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="Leetcode Stats" />
+  </a>
+</p>
+
 
 ## 🌐 Connect with me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sagar-nayak-498352295/)
