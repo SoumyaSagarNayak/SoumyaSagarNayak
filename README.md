@@ -54,17 +54,26 @@
 ![Followers](https://img.shields.io/github/followers/SoumyaSagarNayak?label=Followers&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/SoumyaSagarNayak?label=Stars&style=flat-square)
 
-## 📊 DSA Stats
-
 <p align="center">
-  <a href="https://leetcode.com/icesagar/">
-    <img src="https://leetcard.jacoblin.cool/SoumyaSagarNayak?theme=dark&font=Karma&ext=heatmap" alt="Leetcode Stats" />
+  <a href="https://leetcode.com/u/icesagar/">
+    <img src="https://leetcard.jacoblin.cool/SoumyaSagarNayak?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/soumsagar/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG Badge"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codolio.com/profile/wonin">
+    <img src="https://codolio.com/card/wonin" alt="Codolio Stats" width="350"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/soumsagar/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2318b915.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.naukri.com/code360/profile/2203d5b6-9aee-449f-897b-a272c92040d5">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas%20CodeStudio-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio Badge"/>
+  </a>
+</p>
+
 
 
 
