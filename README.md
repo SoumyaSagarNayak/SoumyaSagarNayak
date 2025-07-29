@@ -54,13 +54,18 @@
 ![Followers](https://img.shields.io/github/followers/SoumyaSagarNayak?label=Followers&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/SoumyaSagarNayak?label=Stars&style=flat-square)
 
-## 📈 LeetCode Stats
+## 📊 DSA Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/icesagar/">
-    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="Leetcode Stats" />
+  <a href="https://leetcode.com/icesagar/">
+    <img src="https://leetcard.jacoblin.cool/SoumyaSagarNayak?theme=dark&font=Karma&ext=heatmap" alt="Leetcode Stats" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/soumsagar/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG Badge"/>
   </a>
 </p>
+
 
 
 ## 🌐 Connect with me:
