@@ -34,13 +34,21 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SoumyaSagarNayak&theme=dark)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SoumyaSagarNayak&theme=dark)
+
+
 ![Followers](https://img.shields.io/github/followers/SoumyaSagarNayak?label=Followers&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/SoumyaSagarNayak?label=Stars&style=flat-square)
+
+- ![Visitor Count](https://komarev.com/ghpvc/?username=SoumyaSagarNayak&color=yellow)
 
 ## 🌐 Connect with me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sagar-nayak-498352295/)
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-00acee?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ice_soum/)
 - [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/WONIN351)
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
