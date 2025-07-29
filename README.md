@@ -26,8 +26,10 @@
 ### 🗄️ Database:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 [![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoumyaSagarNayak&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaSagarNayak&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SoumyaSagarNayak&theme=dark)
 ## 🌐 Connect with me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sagar-nayak-498352295/)
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-00acee?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ice_soum/)
