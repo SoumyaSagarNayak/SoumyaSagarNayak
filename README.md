@@ -54,13 +54,11 @@
 ![Followers](https://img.shields.io/github/followers/SoumyaSagarNayak?label=Followers&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/SoumyaSagarNayak?label=Stars&style=flat-square)
 
+## 📘**DSA STATS**:
+
 <p align="center">
   <a href="https://leetcode.com/u/icesagar/">
     <img src="https://leetcard.jacoblin.cool/SoumyaSagarNayak?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codolio.com/profile/wonin">
-    <img src="https://codolio.com/card/wonin" alt="Codolio Stats" width="350"/>
   </a>
 </p>
 
@@ -73,6 +71,7 @@
     <img src="https://img.shields.io/badge/Coding%20Ninjas%20CodeStudio-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio Badge"/>
   </a>
 </p>
+
 
 
 
