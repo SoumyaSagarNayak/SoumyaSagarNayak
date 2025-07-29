@@ -44,8 +44,9 @@
   <img src="https://streak-stats.demolab.com/?user=SoumyaSagarNayak&theme=dark" alt="GitHub Streak" />
 </p>
 
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SoumyaSagarNayak&theme=darkhub&no-frame=true&row=1&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SoumyaSagarNayak&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoumyaSagarNayak&theme=github-dark)
 
