@@ -56,23 +56,36 @@
 
 ## 📊 **## DSA Stats**:
 
-<p align="center">
-  <a href="https://leetcode.com/u/icesagar/">
-    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="350px" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/soumsagar/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%2318b915.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://www.naukri.com/code360/profile/2203d5b6-9aee-449f-897b-a272c92040d5">
-    <img src="https://img.shields.io/badge/Coding%20Ninjas%20CodeStudio-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://codolio.com/profile/wonin">
-    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Codolio Badge"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+
+    <td>
+      <a href="https://leetcode.com/u/icesagar/">
+        <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="350px" />
+      </a>
+    </td>
+
+    <td>
+      <p>
+        <a href="https://www.geeksforgeeks.org/user/soumsagar/">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-%2318b915.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge"/>
+        </a>
+      </p>
+      <p>
+        <a href="https://www.naukri.com/code360/profile/2203d5b6-9aee-449f-897b-a272c92040d5">
+          <img src="https://img.shields.io/badge/Coding%20Ninjas%20CodeStudio-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio Badge"/>
+        </a>
+      </p>
+      <p>
+        <a href="https://codolio.com/profile/wonin">
+          <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio Badge"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 
 ## 🌐 Connect with me:
