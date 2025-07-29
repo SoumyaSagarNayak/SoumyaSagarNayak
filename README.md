@@ -38,7 +38,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pSoumyaSagarNayak&layout=compact&theme=dark)
 ## 🌐 Connect with me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sagar-nayak-498352295/)
-- [![Instagram Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ice_soum/)
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-00acee?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ice_soum/)
 - [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/WONIN351)
 
 <p align="center">
