@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/icesagar/">
-    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" style="width:75%;" />
+    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" style="width:55%;" />
   </a>
 </p>
 
