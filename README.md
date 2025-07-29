@@ -32,9 +32,6 @@
 - Wrapping up frontend mastery with React, Tailwind, and component design.
 - Sharpening DSA for coding interviews and diving into system design fundamentals.
 
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
