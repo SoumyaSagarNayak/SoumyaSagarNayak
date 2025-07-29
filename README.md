@@ -1,18 +1,10 @@
-- 👋 Hi, I’m @SoumyaSagarNayak
-- 👀 I’m interested in Badminton,Comics,Anime...
-- 🌱 I’m currently pursuing B.tech
-- 📫 How to reach me https://t.me/WONIN351
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Trying to be Jackk...
-
 # Hi, I’m @SoumyaSagarNayak 👋
 - 👀 I’m interested in Badminton,Comics,Anime...
 - 🌱 I’m currently pursuing B.tech
-- 📫 How to reach me https://t.me/WONIN351
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Trying to be Jackk...
 ## 🚀 About Me
-- 👯 I’m looking to collaborate on open-source projects.
+- 🌟 I’m actively seeking internship opportunities to gain hands-on experience. With strong computer fundamentals, adaptability, and effective management skills, I'm eager to contribute meaningfully while continuously learning and growing in a professional environment.
 - 📫 Reach me at [soumyasagarnayak351@gmail.com](mailto:soumyasagarnayak351@gmail.com).
 ## 🛠️ Skills & Technologies:
 ### 🖥️ Languages:
