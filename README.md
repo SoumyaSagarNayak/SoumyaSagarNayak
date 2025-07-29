@@ -1,30 +1,37 @@
-# Hi, I’m @SoumyaSagarNayak 👋
+# # 🙋‍♂️ Soumya Sagar Nayak | Aspiring Full-Stack Developer
+🚀 Passionate CSE undergrad | Problem Solver | Building cool things with code.
+
 - 👀 I’m interested in Badminton,Comics,Anime...
 - 🌱 I’m currently pursuing B.tech
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Trying to be Jackk...
+- ⚡ Fun fact: Master of none, but makin’ it work 😤
+- 🎯 Currently focusing on Data Structures, Full-Stack Development, and real-world project building.
+
 ## 🚀 About Me
 - 🌟 I’m actively seeking internship opportunities to gain hands-on experience. With strong computer fundamentals, adaptability, and effective management skills, I'm eager to contribute meaningfully while continuously learning and growing in a professional environment.
 - 📫 Reach me at [soumyasagarnayak351@gmail.com](mailto:soumyasagarnayak351@gmail.com).
 ## 🛠️ Skills & Technologies:
-### 🖥️ Languages:
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
+### 🖥️ **Languages**:
+![C](https://img.shields.io/badge/-C-000?&logo=C) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-000?&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
 
-### 🌐 Frontend Development:
+### 🌐 **Frontend Development**:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
 ![React](https://img.shields.io/badge/-React-20232A?logo=react)
 
-### ⚙️ Backend Development:
+### ⚙️ **Backend Development**:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-000?logo=express)
 
-### 🗄️ Database:
+### 🗄️ **Database**:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+
+## 📘 **Currently Learning**:
+- Perfecting my backend skills with Node.js, Express, and MongoDB.
+- Wrapping up frontend mastery with React, Tailwind, and component design.
+- Sharpening DSA for coding interviews and diving into system design fundamentals.
+
 
 ## 📊 GitHub Stats
 
@@ -54,3 +61,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
 
+<!--
+Soumya Sagar Nayak, Full Stack Developer, CSE Student, Open Source, JavaScript, React, Node.js, MongoDB, GitHub Readme, Coding, Internships
+-->
