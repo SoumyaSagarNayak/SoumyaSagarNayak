@@ -69,9 +69,6 @@
   <a href="https://www.naukri.com/code360/profile/2203d5b6-9aee-449f-897b-a272c92040d5">
     <img src="https://img.shields.io/badge/CodeStudio-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio Badge"/>
   </a>
-  <a href="https://codolio.com/profile/wonin">
-    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white" alt="Codolio Badge"/>
-  </a>
 </p>
 
 
