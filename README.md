@@ -54,6 +54,9 @@
 ![Followers](https://img.shields.io/github/followers/SoumyaSagarNayak?label=Followers&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/SoumyaSagarNayak?label=Stars&style=flat-square)
 
+## 📈 LeetCode Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SoumyaSagarNayak?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/icesagar/)
 
 ## 🌐 Connect with me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sagar-nayak-498352295/)
