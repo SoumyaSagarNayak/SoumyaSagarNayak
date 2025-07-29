@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/icesagar/">
-    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" style="width:75%;" />
   </a>
 </p>
 
@@ -71,10 +71,6 @@
     <img src="https://img.shields.io/badge/Coding%20Ninjas%20CodeStudio-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio Badge"/>
   </a>
 </p>
-
-
-
-
 
 ## 🌐 Connect with me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sagar-nayak-498352295/)
