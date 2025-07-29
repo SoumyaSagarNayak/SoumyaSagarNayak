@@ -39,7 +39,12 @@
 
 [![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoumyaSagarNayak&show_icons=true&include_all_commits=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaSagarNayak&layout=compact&langs_count=10&theme=dark)    ![GitHub Streak](https://streak-stats.demolab.com/?user=SoumyaSagarNayak&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaSagarNayak&layout=compact&langs_count=10&theme=dark" alt="Top Langs" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=SoumyaSagarNayak&theme=dark" alt="GitHub Streak" />
+</p>
+
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SoumyaSagarNayak&theme=darkhub&no-frame=true&row=1&column=7)
 
