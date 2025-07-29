@@ -37,8 +37,8 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SoumyaSagarNayak&theme=dark)
 
 
-![Followers](https://img.shields.io/github/followers/SoumyaSagarNayak?label=Followers&style=flat-square)
-![Stars](https://img.shields.io/github/stars/SoumyaSagarNayak?label=Stars&style=flat-square)
+- ![Followers](https://img.shields.io/github/followers/SoumyaSagarNayak?label=Followers&style=flat-square)
+- ![Stars](https://img.shields.io/github/stars/SoumyaSagarNayak?label=Stars&style=flat-square)
 
 - ![Visitor Count](https://komarev.com/ghpvc/?username=SoumyaSagarNayak&color=yellow)
 
