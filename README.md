@@ -58,19 +58,22 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/icesagar/">
-    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" style="width:35%;" />
+    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="350px" />
   </a>
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/soumsagar/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%2318b915.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.naukri.com/code360/profile/2203d5b6-9aee-449f-897b-a272c92040d5">
     <img src="https://img.shields.io/badge/Coding%20Ninjas%20CodeStudio-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio Badge"/>
   </a>
+  &nbsp;
+  <a href="https://codolio.com/profile/wonin">
+    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Codolio Badge"/>
+  </a>
 </p>
+
 
 ## 🌐 Connect with me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sagar-nayak-498352295/)
