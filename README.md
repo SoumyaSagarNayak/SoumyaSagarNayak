@@ -34,12 +34,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SoumyaSagarNayak&theme=dark)
 
-![Repos Badge](https://badges.pufler.dev/repos/SoumyaSagarNayak)
 ![Followers](https://img.shields.io/github/followers/SoumyaSagarNayak?label=Followers&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/SoumyaSagarNayak?label=Stars&style=flat-square)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SoumyaSagarNayak&theme=darkhub&column=7)
-
 
 ## 🌐 Connect with me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sagar-nayak-498352295/)
