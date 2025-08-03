@@ -1,4 +1,11 @@
-# # 🙋‍♂️ Soumya Sagar Nayak | Aspiring Full-Stack Developer
+<h1 align="center">
+  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Soumya+Sagar+Nayak;CS+Student;Aspiring+Fullstack+Dev;Dreaming+Big" alt="Typing SVG" />
+</p>
+
 🚀 Passionate CSE undergrad | Problem Solver | Building cool things with code.
 
 - 👀 I’m interested in Badminton,Comics,Anime...
@@ -10,25 +17,65 @@
 ## 🚀 About Me
 - 🌟 I’m actively seeking internship opportunities to gain hands-on experience. With strong computer fundamentals, adaptability, and effective management skills, I'm eager to contribute meaningfully while continuously learning and growing in a professional environment.
 - 📫 Reach me at [soumyasagarnayak351@gmail.com](mailto:soumyasagarnayak351@gmail.com).
-## 🛠️ Skills & Technologies:
 
-### 🖥️ **Languages**:
-![C](https://img.shields.io/badge/-C-000?&logo=C) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-000?&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
-### 🌐 **Frontend Development**:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
-![React](https://img.shields.io/badge/-React-20232A?logo=react)
-### ⚙️ **Backend Development**:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-000?logo=express)
-### 🗄️ **Database**:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top"><strong>Languages</strong><br>
+      <img src="https://img.shields.io/badge/-C-000?&logo=C" />
+      <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B" />
+      <img src="https://img.shields.io/badge/-Python-000?&logo=python" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+    </td>
+    <td valign="top"><strong>Frontend</strong><br>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" />
+      <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css" />
+      <img src="https://img.shields.io/badge/-React-20232A?logo=react" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Backend</strong><br>
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js" />
+      <img src="https://img.shields.io/badge/-Express.js-000000?logo=express" />
+    </td>
+    <td valign="top"><strong>Database</strong><br>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Tools</strong><br>
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
+    </td>
+    <td valign="top"><strong>Platforms</strong><br>
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" />
+      <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel" />
+    </td>
+  </tr>
+</table>
+</div>
+
 
 ## 📘 **Currently Learning**:
 - Perfecting my backend skills with Node.js, Express, and MongoDB.
 - Wrapping up frontend mastery with React, Tailwind, and component design.
 - Sharpening DSA for coding interviews and diving into system design fundamentals.
+
+<h2 align="center">🐍 Watch my contribution graph get eaten by a snake 🐍</h2>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/SoumyaSagarNayak/SoumyaSagarNayak/output/github-contribution-grid-snake.svg" 
+    alt="Snake animation"
+    width="80%"
+  />
+</p>
+
 
 ## 📊 GitHub Stats
 
