@@ -62,15 +62,21 @@
   </tr>
   <tr>
     <td valign="top"><strong>Tools</strong><br>
-      <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" />
     </td>
     <td valign="top"><strong>Platforms</strong><br>
       <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" />
       <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" />
     </td>
   </tr>
 </table>
+
 </div>
 
 
