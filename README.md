@@ -4,15 +4,28 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Soumya+Sagar+Nayak;CS+Student;Aspiring+Fullstack+Dev;Dreaming+Big" alt="Typing SVG" />
+
 </p>
 
-🚀 Passionate CSE undergrad | Problem Solver | Building cool things with code.
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="190" alt="Professional coder GIF" />
+    </td>
+    <td>
+      <h3>🚀 Passionate CSE undergrad | Problem Solver | Building cool things with code.</h3>
+      <ul>
+        <li>👀 I’m interested in Badminton, Comics, Anime...</li>
+        <li>🌱 I’m currently pursuing B.Tech</li>
+        <li>😄 Pronouns: He/Him</li>
+        <li>⚡ Fun fact: Master of none, but makin’ it work 😤</li>
+        <li>🎯 Currently focusing on Data Structures, Full-Stack Development, and real-world project building.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 👀 I’m interested in Badminton,Comics,Anime...
-- 🌱 I’m currently pursuing B.tech
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Master of none, but makin’ it work 😤
-- 🎯 Currently focusing on Data Structures, Full-Stack Development, and real-world project building.
+
 
 ## 🚀 About Me
 - 🌟 I’m actively seeking internship opportunities to gain hands-on experience. With strong computer fundamentals, adaptability, and effective management skills, I'm eager to contribute meaningfully while continuously learning and growing in a professional environment.
