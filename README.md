@@ -107,8 +107,6 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoumyaSagarNayak&theme=github-dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SoumyaSagarNayak&color=blue)
-![Followers](https://img.shields.io/github/followers/SoumyaSagarNayak?label=Followers&style=flat-square)
-![Stars](https://img.shields.io/github/stars/SoumyaSagarNayak?label=Stars&style=flat-square)
 
 ## 📊 **## DSA Stats**:
 
