@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 - 🌟 I’m actively seeking opportunities to gain hands-on experience. With strong computer fundamentals, adaptability, and effective management skills, I'm eager to contribute meaningfully while continuously learning and growing in a professional environment.
-- 📫 Reach me at [soumyasagarnayak351@gmail.com](mailto:soumyasagarnayak351@gmail.com).
+- 📫 Reach me at **[soumyasagarnayak351@gmail.com](mailto:soumyasagarnayak351@gmail.com)** | 📱 **+91 8908382818**
 
 
 ## 🧰 Tech Stack
