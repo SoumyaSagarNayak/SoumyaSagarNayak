@@ -29,6 +29,7 @@
 
 ## 🚀 About Me
 - 🌟 I’m actively seeking opportunities to gain hands-on experience. With strong computer fundamentals, adaptability, and effective management skills, I'm eager to contribute meaningfully while continuously learning and growing in a professional environment.
+- You can reach and to me and we can work together on cool things.
 - 📫 Reach me at **[soumyasagarnayak351@gmail.com](mailto:soumyasagarnayak351@gmail.com)** | 📱 **+91 8908382818**
 
 
