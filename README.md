@@ -82,18 +82,6 @@
 - 📚 System Design Fundamentals
 - 🧠 Data Structures & Algorithms
 
-<h2 align="center">🐍 Watch my contribution graph get eaten by a snake 🐍</h2>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/SoumyaSagarNayak/SoumyaSagarNayak/output/github-contribution-grid-snake.svg" 
-    alt="Snake animation"
-    width="80%"
-  />
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SoumyaSagarNayak&color=blue)
-
 ## 📊 DSA Stats
 
 <p align="center">
@@ -110,6 +98,18 @@
     <img src="https://img.shields.io/badge/CodeStudio-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio Badge"/>
   </a>
 </p>
+
+<h2 align="center">🐍 Watch my contribution graph get eaten by a snake 🐍</h2>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/SoumyaSagarNayak/SoumyaSagarNayak/output/github-contribution-grid-snake.svg" 
+    alt="Snake animation"
+    width="80%"
+  />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SoumyaSagarNayak&color=blue)
 
 
 ## 🌐 Connect with Me
