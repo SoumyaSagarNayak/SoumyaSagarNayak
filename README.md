@@ -86,18 +86,24 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/icesagar/">
-    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="300px"/>
+    <img src="https://leetcard.jacoblin.cool/icesagar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="500px"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/soumsagar/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%2318b915.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-18B915?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+
   <a href="https://www.naukri.com/code360/profile/2203d5b6-9aee-449f-897b-a272c92040d5">
-    <img src="https://img.shields.io/badge/CodeStudio-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio Badge"/>
+    <img src="https://img.shields.io/badge/CodeStudio-DD6C00?style=for-the-badge&logo=codingninjas&logoColor=white" />
+  </a>
+
+  <a href="https://www.credly.com/users/soumya-sagar-nayak.ae8822ea/badges">
+    <img src="https://img.shields.io/badge/Credly-View%20Certificates-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
 </p>
+
 
 <h2 align="center">🐍 Watch my contribution graph get eaten by a snake 🐍</h2>
 
