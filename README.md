@@ -7,23 +7,13 @@
 
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="190" alt="Professional coder GIF" />
-    </td>
-    <td>
-      <h3>🚀 Passionate CSE undergrad | Problem Solver | Building cool things with code.</h3>
-      <ul>
-        <li>👀 I’m interested in Badminton, Comics, Anime...</li>
-        <li>🌱 I’m currently pursuing B.Tech</li>
-        <li>😄 Pronouns: He/Him</li>
-        <li>⚡ Fun fact: Master of none, but makin’ it work 😤</li>
-        <li>🎯 Currently focusing on Data Structures, Full-Stack Development, and real-world project building.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🚀 Passionate CSE Undergrad | Problem Solver | Building Cool Things with Code
+
+- 👀 I'm interested in **Badminton, Comics, Anime, and Chess**.
+- 🌱 Currently pursuing **B.Tech in Computer Science & Engineering**.
+- 😄 Pronouns: **He/Him**.
+- ⚡ Fun fact: **Master of none, but makin' it work 😤**
+- 🎯 Currently focused on **Data Structures & Algorithms, Full-Stack Development, and building real-world projects**.
 
 
 
@@ -40,51 +30,57 @@
 <table>
   <tr>
     <td valign="top"><strong>Languages</strong><br>
-      <img src="https://img.shields.io/badge/-C-000?&logo=C" />
-      <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B" />
-      <img src="https://img.shields.io/badge/-Python-000?&logo=python" />
+      <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-    </td>
-    <td valign="top"><strong>Frontend</strong><br>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" />
-      <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css" />
-      <img src="https://img.shields.io/badge/-React-20232A?logo=react" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+    </td>
+    <td valign="top"><strong>Frameworks</strong><br>
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
     </td>
   </tr>
+
   <tr>
-    <td valign="top"><strong>Backend</strong><br>
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js" />
-      <img src="https://img.shields.io/badge/-Express.js-000000?logo=express" />
+    <td valign="top"><strong>Libraries</strong><br>
+      <img src="https://img.shields.io/badge/-React-20232A?logo=react" />
+      <img src="https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white" />
     </td>
     <td valign="top"><strong>Database</strong><br>
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td valign="top"><strong>Tools</strong><br>
-      <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white" />
     </td>
-    <td valign="top"><strong>Platforms</strong><br>
-      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" />
-      <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel" />
-      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" />
+    <td valign="top"><strong>Technologies</strong><br>
+      <img src="https://img.shields.io/badge/-REST%20API-FF6C37?logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Clerk-6C47FF?logo=clerk&logoColor=white" />
+      <img src="https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white" />
     </td>
   </tr>
+
 </table>
 
 </div>
 
 
-## 📘 **Currently Learning**:
-- Perfecting my backend skills with Node.js, Express, and MongoDB.
-- Wrapping up frontend mastery with React, Tailwind, and component design.
-- Sharpening DSA for coding interviews and diving into system design fundamentals.
+## 🌱 Currently Exploring
+
+- ⚛️ Advanced React Patterns
+- 🚀 Backend Development with Node.js & Express
+- 🗄️ MongoDB & Database Design
+- 📚 System Design Fundamentals
+- 🧠 Data Structures & Algorithms
 
 <h2 align="center">🐍 Watch my contribution graph get eaten by a snake 🐍</h2>
 
@@ -96,20 +92,9 @@
   />
 </p>
 
-
-
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SoumyaSagarNayak&theme=dark" alt="GitHub Streak" />
-</p>
-
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoumyaSagarNayak&theme=github-dark)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SoumyaSagarNayak&color=blue)
 
-## 📊 **## DSA Stats**:
+## 📊 DSA Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/icesagar/">
@@ -127,18 +112,27 @@
 </p>
 
 
-## 🌐 Connect with me:
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sagar-nayak-498352295/)
-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-00acee?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ice_soum/)
-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/WONIN351)
-
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+  <a href="https://www.linkedin.com/in/soumya-sagar-nayak-498352295/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:soumyasagarnayak351@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://soum-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/SoumyaSagarNayak" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ice_soum/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/WONIN351" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
-<!--
-Soumya Sagar Nayak, Full Stack Developer, CSE Student, Open Source, JavaScript, React, Node.js, MongoDB, GitHub Readme, Coding, Internships
--->
+
